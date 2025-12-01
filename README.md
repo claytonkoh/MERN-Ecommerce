@@ -18,7 +18,7 @@ Whether you're looking to browse products, manage inventory, or process payments
 - **Product Browsing**: Advanced filtering, sorting, and search capabilities.
 - **Secure Authentication**: User registration and login with JWT.
 - **Shopping Cart**: Real-time cart management.
-- **Checkout & Payments**: Integrated with **Stripe**, **Razorpay**, and **Xendit** for secure transactions.
+- **Checkout & Payments**: Integrated with **Xendit** for secure transactions.
 - **Order History**: View past orders and status updates.
 
 ### 🛡️ For Administrators (Admin Panel)
