@@ -132,7 +132,7 @@ npm run dev
 
 |                          Admin Dashboard                           |                              Cart                               |
 | :----------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![Admin](https://github.com/user-attachments/assets/dcf4abf4-5094-4573-b222-acc28c718a23) | ![Cart](https://via.placeholder.com/400x200?text=Shopping+Cart](https://github.com/user-attachments/assets/a6980066-684b-4d0c-ad3a-0dca3e49ba8d))
+| ![Admin](https://github.com/user-attachments/assets/dcf4abf4-5094-4573-b222-acc28c718a23) | ![Cart](https://github.com/user-attachments/assets/a6980066-684b-4d0c-ad3a-0dca3e49ba8d))
 
 ## 🤝 Contributing
 
