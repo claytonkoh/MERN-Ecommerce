@@ -95,7 +95,7 @@ JWT_SECRET=your_jwt_secret
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
-STRIPE_SECRET_KEY=your_stripe_key
+XENDIT_SECRET_KEY=your_stripe_key
 # Add other payment gateway keys as needed
 ```
 
@@ -132,7 +132,7 @@ npm run dev
 
 |                          Admin Dashboard                           |                              Cart                               |
 | :----------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![Admin](https://github.com/user-attachments/assets/dcf4abf4-5094-4573-b222-acc28c718a23) | ![Cart](https://github.com/user-attachments/assets/a6980066-684b-4d0c-ad3a-0dca3e49ba8d))
+| ![Admin](https://github.com/user-attachments/assets/dcf4abf4-5094-4573-b222-acc28c718a23) | ![Cart](https://github.com/user-attachments/assets/a6980066-684b-4d0c-ad3a-0dca3e49ba8d)
 
 ## 🤝 Contributing
 
