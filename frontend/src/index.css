@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&family=Outfit:wght@100..900&family=Prata&display=swap');
+@import "tailwindcss";
+
+a.active hr{
+    display: block;
+}
+
+.bitcount-grid-single-bitcoin {
+  font-family: "Bitcount Grid Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+}
+
+.prata-regular {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.outfit-outfit {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+*{
+    font-family: outfit;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+@media (max-width:640px) {
+  a.active{
+    background-color: black;
+    color: white;
+  }
+}
