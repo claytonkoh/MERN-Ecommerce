@@ -4,6 +4,14 @@
 
 ![Project Banner](https://github.com/user-attachments/assets/3107f095-3e37-4f64-a9d9-cae5747261de) _<!-- Replace with actual screenshot -->_
 
+## Deployment Link
+Frontend : https://fromthestart-frontend.vercel.app/
+Admin : https://fromthestart-admin.vercel.app/
+
+Admin Testing Information :
+Email : fromthestart@gmail.com
+Password : fromthestart
+
 ## 🚀 Overview
 
 Welcome to the **MERN E-Commerce Platform**! This project is a comprehensive online shopping solution designed to provide a seamless experience for customers and a powerful management interface for administrators. Built with the robust **MERN stack** (MongoDB, Express.js, React, Node.js), it leverages modern tools like **Vite**, **Tailwind CSS v4**, and **Framer Motion** for a sleek, responsive UI.
